@@ -1,0 +1,13 @@
+C:\Users\dallas.holbrook\source\repos\Constructors_Dallas\bin\Debug\netcoreapp3.1\Constructors_Dallas.exe
+C:\Users\dallas.holbrook\source\repos\Constructors_Dallas\bin\Debug\netcoreapp3.1\Constructors_Dallas.deps.json
+C:\Users\dallas.holbrook\source\repos\Constructors_Dallas\bin\Debug\netcoreapp3.1\Constructors_Dallas.runtimeconfig.json
+C:\Users\dallas.holbrook\source\repos\Constructors_Dallas\bin\Debug\netcoreapp3.1\Constructors_Dallas.runtimeconfig.dev.json
+C:\Users\dallas.holbrook\source\repos\Constructors_Dallas\bin\Debug\netcoreapp3.1\Constructors_Dallas.dll
+C:\Users\dallas.holbrook\source\repos\Constructors_Dallas\bin\Debug\netcoreapp3.1\Constructors_Dallas.pdb
+C:\Users\dallas.holbrook\source\repos\Constructors_Dallas\obj\Debug\netcoreapp3.1\Constructors_Dallas.csproj.AssemblyReference.cache
+C:\Users\dallas.holbrook\source\repos\Constructors_Dallas\obj\Debug\netcoreapp3.1\Constructors_Dallas.AssemblyInfoInputs.cache
+C:\Users\dallas.holbrook\source\repos\Constructors_Dallas\obj\Debug\netcoreapp3.1\Constructors_Dallas.AssemblyInfo.cs
+C:\Users\dallas.holbrook\source\repos\Constructors_Dallas\obj\Debug\netcoreapp3.1\Constructors_Dallas.csproj.CoreCompileInputs.cache
+C:\Users\dallas.holbrook\source\repos\Constructors_Dallas\obj\Debug\netcoreapp3.1\Constructors_Dallas.dll
+C:\Users\dallas.holbrook\source\repos\Constructors_Dallas\obj\Debug\netcoreapp3.1\Constructors_Dallas.pdb
+C:\Users\dallas.holbrook\source\repos\Constructors_Dallas\obj\Debug\netcoreapp3.1\Constructors_Dallas.genruntimeconfig.cache
